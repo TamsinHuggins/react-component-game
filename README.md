@@ -82,7 +82,7 @@ The instructor will show you how to make the Square component increase its count
 Make it so that the Circle component changes its color every time it is clicked. The circle component must cycle through at least 5 different colors. It is recommended to cycle through an array of colors.
 
 ## Challenge 2.3
-Make a counter that updates any time ANY shape on the page is clicked.
+Make a counter for "Total Clicks" that updates any time ANY shape on the page is clicked.
 
 
 
