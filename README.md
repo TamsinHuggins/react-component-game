@@ -54,7 +54,9 @@ Make the UI appear as pictured. You will need to:
 - Import it into App
 - Render it multiple times in App
 - There is already some styling information for the square that you can find in App.css
-![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/eb9c64ff-5e7e-4baf-ae43-c289b9f1f865)
+
+![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/dc02b23a-3d31-4384-9be1-2f45de367cf3)
+
 
 
 # Level-2
