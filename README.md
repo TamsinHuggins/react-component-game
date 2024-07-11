@@ -61,6 +61,20 @@ Make the UI appear as pictured. You will need to:
 
 # Level-2
 
+## To get started on Level-2
+
+
+```
+cd ..
+cd level-2
+npm install
+npm run dev
+```
+
+![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/f4f2031a-0856-47bb-a234-883789c1b010)
+
+
+
 ## Challenge 2.1
 The instructor will show you how to make the Square component increase its counter by 1 every time it is clicked, showing you what NOT to do in the process.
 
