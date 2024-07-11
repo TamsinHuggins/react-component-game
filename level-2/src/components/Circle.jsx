@@ -1,10 +1,8 @@
 import "../App.css";
 
-const Circle = (props) => {
-  const circleColor = props.color ?? "grey";
-
+const Circle = () => {
   return (
-    <div className="circle" style={{ backgroundColor: circleColor }}></div>
+    <button className="circle" style={{ backgroundColor: "red" }}></button>
   );
 };
 
