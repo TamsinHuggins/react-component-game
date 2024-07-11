@@ -8,10 +8,10 @@ This game will farmiliarise you to crucial React concepts including:
     - Using props for component customization
 
 - Stateful React Components (level 2)
-> Components can have stateful variables
-> Stateful variables manage re-renders of components
-> The UseState hook for creating stateful variables 
-> Stateful variables must be updated via their setter that is created by UseState
+    - Components can have stateful variables
+    - Stateful variables manage re-renders of components
+    - The UseState hook for creating stateful variables 
+    - Stateful variables must be updated via their setter that is created by UseState
 
 
 ## Prerequisites
