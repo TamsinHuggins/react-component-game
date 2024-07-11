@@ -3,9 +3,9 @@
 ## Overview
 This game will farmiliarise you to crucial React concepts including:
 - React Components (level 1)
--- How to render components in a parent component
--- Expoering and importing components
-> Using props for component customization
+    - How to render components in a parent component
+    - Expoering and importing components
+    - Using props for component customization
 
 - Stateful React Components (level 2)
 > Components can have stateful variables
