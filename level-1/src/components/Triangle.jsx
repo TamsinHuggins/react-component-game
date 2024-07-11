@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 const Triangle = (props) => {
   const triangleColor = props.color ?? "grey";
 
