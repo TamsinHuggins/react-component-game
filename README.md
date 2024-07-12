@@ -31,21 +31,21 @@ npm run dev
 ```
 You should see that the app appears as shown in the browser
 
-![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/8c760907-a665-471d-b24f-7fa3f1320186)
-
+<img src="https://github.com/TamsinHuggins/react-component-game/assets/32196191/8c760907-a665-471d-b24f-7fa3f1320186" width="500"/>
+ 
 # Level-1
 
 
 ## Challenge 1.1
 Make the UI appear as pictured by changing the code in App.jsx
 
-<image src=https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656 >
+<img src=https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656 width="500"/>
 
 ## Challenge 1.2
 Make the UI appear as pictured by changing the code in App.jsx
 Hint: there already exists a Triangle component you can use.
 
-![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/e1ea3725-dc39-48ad-aa89-e91fe142d7de)
+<img src="https://github.com/TamsinHuggins/react-component-game/assets/32196191/e1ea3725-dc39-48ad-aa89-e91fe142d7de" width="500"/>
 
 ## Challenge 1.3 
 
@@ -57,7 +57,7 @@ Make the UI appear as pictured. You will need to:
 - There is already some styling information for the square that you can find in App.css
 - Hint: the code in components/Circle.jsx should give you some ideas on how to start building your Square
 
-![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/dc02b23a-3d31-4384-9be1-2f45de367cf3)
+<img src="https://github.com/TamsinHuggins/react-component-game/assets/32196191/dc02b23a-3d31-4384-9be1-2f45de367cf3" width="500"/>
 
 
 
