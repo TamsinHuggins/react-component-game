@@ -55,6 +55,7 @@ Make the UI appear as pictured. You will need to:
 - Import it into App
 - Render it multiple times in App
 - There is already some styling information for the square that you can find in App.css
+- Hint: the code in components/Circle.jsx should give you some ideas on how to start building your Square
 
 ![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/dc02b23a-3d31-4384-9be1-2f45de367cf3)
 
