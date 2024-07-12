@@ -80,22 +80,23 @@ npm run dev
 ## Challenge 2.1
 The instructor will show you how to make the Square component increase its counter by 1 every time it is clicked, showing you what NOT to do in the process.
 
-![Screen Recording 2024-07-12 101227](https://github.com/user-attachments/assets/d8ffe93d-5d76-4da8-87ff-5e4b3b48458a)
+![square](https://github.com/user-attachments/assets/302bcd07-31d9-47cc-a70b-7ac1807a0537)
 
 
 
 ## Challenge 2.2
 Make it so that the Circle component changes its color every time it is clicked. The circle component must cycle through at least 5 different colors. It is recommended to cycle through an array of colors.
 
-![Screen Recording 2024-07-12 101027](https://github.com/user-attachments/assets/0a9b28cf-c1bc-4996-8084-fc9cc5b59967)
+![circle](https://github.com/user-attachments/assets/5d770a1d-f20c-46dd-950f-f9d84dc3ef86)
 
 
 
 ## Challenge 2.3
 Make a counter for "Total Clicks" that updates any time ANY shape on the page is clicked.
 
-![Screen Recording 2024-07-12 100231](https://github.com/user-attachments/assets/a7e8bdad-e033-4b14-983f-4c0b6b297519)
 
 
+
+![final](https://github.com/user-attachments/assets/d8142e68-6173-4864-a8a9-ef78986653da)
 
 
