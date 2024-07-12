@@ -96,6 +96,6 @@ Make a counter for "Total Clicks" that updates any time ANY shape on the page is
 
 
 
-<img src="https://github.com/user-attachments/assets/d8142e68-6173-4864-a8a9-ef78986653da" width="500">
+<img src="https://github.com/user-attachments/assets/d8142e68-6173-4864-a8a9-ef78986653da" width="500"/>
 
 
