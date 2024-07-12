@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/f4f2031a-0856-47bb-a234-883789c1b010)
+< img src="https://github.com/TamsinHuggins/react-component-game/assets/32196191/f4f2031a-0856-47bb-a234-883789c1b010" width="500" />
 
 
 
