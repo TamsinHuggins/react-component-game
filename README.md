@@ -39,7 +39,7 @@ You should see that the app appears as shown in the browser
 ## Challenge 1.1
 Make the UI appear as pictured by changing the code in App.jsx
 
-<image src=https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656 width="500">
+<image src=https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656 >
 
 ## Challenge 1.2
 Make the UI appear as pictured by changing the code in App.jsx
@@ -80,14 +80,13 @@ npm run dev
 ## Challenge 2.1
 The instructor will show you how to make the Square component increase its counter by 1 every time it is clicked, showing you what NOT to do in the process.
 
-![square](https://github.com/user-attachments/assets/302bcd07-31d9-47cc-a70b-7ac1807a0537)
-
+<img src="https://github.com/user-attachments/assets/302bcd07-31d9-47cc-a70b-7ac1807a0537" width="500"/>
 
 
 ## Challenge 2.2
 Make it so that the Circle component changes its color every time it is clicked. The circle component must cycle through at least 5 different colors. It is recommended to cycle through an array of colors.
 
-![circle](https://github.com/user-attachments/assets/5d770a1d-f20c-46dd-950f-f9d84dc3ef86)
+<img src="https://github.com/user-attachments/assets/5d770a1d-f20c-46dd-950f-f9d84dc3ef86" width="500" />
 
 
 
@@ -97,6 +96,6 @@ Make a counter for "Total Clicks" that updates any time ANY shape on the page is
 
 
 
-![final](https://github.com/user-attachments/assets/d8142e68-6173-4864-a8a9-ef78986653da)
+<img src="https://github.com/user-attachments/assets/d8142e68-6173-4864-a8a9-ef78986653da" width="500">
 
 
