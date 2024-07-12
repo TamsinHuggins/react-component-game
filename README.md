@@ -39,7 +39,7 @@ You should see that the app appears as shown in the browser
 ## Challenge 1.1
 Make the UI appear as pictured by changing the code in App.jsx
 
-![image](https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656)
+<image src=https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656 width="500">
 
 ## Challenge 1.2
 Make the UI appear as pictured by changing the code in App.jsx
