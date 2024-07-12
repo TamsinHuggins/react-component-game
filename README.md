@@ -86,8 +86,7 @@ Make it so that the Circle component changes its color every time it is clicked.
 ## Challenge 2.3
 Make a counter for "Total Clicks" that updates any time ANY shape on the page is clicked.
 
-
-
+![Screen Recording 2024-07-12 100231](https://github.com/user-attachments/assets/a7e8bdad-e033-4b14-983f-4c0b6b297519)
 
 
 
