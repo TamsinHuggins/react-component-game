@@ -66,7 +66,7 @@ Make the UI appear as pictured. You will need to:
 - Build a Square component in components that can change color based on props received
 - Export the Square component
 - Import it into App
-- Render it multiple times in App
+- Render multiple instances of Triangle in App
 - There is already some styling information for the square that you can find in App.css
 
 Hint: the code in components/Circle.jsx should give you some ideas on how to start building your Square
