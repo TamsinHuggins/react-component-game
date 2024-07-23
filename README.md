@@ -25,7 +25,7 @@ You should have previous exposure to coding concepts: functions, variables, arra
 
 ```
 git clone https://github.com/TamsinHuggins/react-component-game
-cd level-1
+cd react-component-game/level-1
 npm install
 npm run dev
 ```
