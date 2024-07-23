@@ -37,13 +37,26 @@ You should see that the app appears as shown in the browser
 
 
 ## Challenge 1.1
-Make the UI appear as pictured by changing the code in App.jsx
+Make the UI appear as pictured by changing the code in App.jsx. App.jsx can be found inside the src folder
 
 <img src=https://github.com/TamsinHuggins/react-component-game/assets/32196191/f89e675e-109c-4eee-b740-ab551104a656 width="500"/>
 
+#### Explanation:
+
+The Circle component is defined in src/components/Circle.jsx.
+In App, the Circle component is imported:
+
+```
+import Circle from "./components/Circle";
+```
+
+And multiple instances of the Circle component are rendered in App, using self-closing arrow tags.
+
 ## Challenge 1.2
-Make the UI appear as pictured by changing the code in App.jsx
-Hint: there already exists a Triangle component you can use.
+Make the UI appear as pictured by changing the code in App.jsx.
+
+Hint1 : Look inside the components folder. There already exists a Triangle component you can use.
+Hint2: Triangle will need to be imported. 
 
 <img src="https://github.com/TamsinHuggins/react-component-game/assets/32196191/e1ea3725-dc39-48ad-aa89-e91fe142d7de" width="500"/>
 
@@ -55,7 +68,8 @@ Make the UI appear as pictured. You will need to:
 - Import it into App
 - Render it multiple times in App
 - There is already some styling information for the square that you can find in App.css
-- Hint: the code in components/Circle.jsx should give you some ideas on how to start building your Square
+
+Hint: the code in components/Circle.jsx should give you some ideas on how to start building your Square
 
 <img src="https://github.com/TamsinHuggins/react-component-game/assets/32196191/dc02b23a-3d31-4384-9be1-2f45de367cf3" width="500"/>
 
